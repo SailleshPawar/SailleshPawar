@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Cricket and Traveller!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Microsoft Azure, React, .NET Core [website]!
 - 🌱 I’m currently learning Azure 
 - 🥅 2020 Goals: Crack Azure certifications
 - ⚡ Fun fact: I love to play cricket and travel in my free time
